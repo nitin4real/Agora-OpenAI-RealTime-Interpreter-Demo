@@ -10,7 +10,7 @@ This platform enables **real-time speech-to-speech translation** using **Agora**
 3. **Python Server**: Creates AI translation agents for real-time audio translation.  
 
 ---
-
+![alt text](Architecture.png)
 ## **Architecture Overview**  
 
 1. **Agora RTC SDK**: Handles video and audio streaming between users.  
