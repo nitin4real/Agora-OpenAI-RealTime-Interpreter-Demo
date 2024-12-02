@@ -156,7 +156,7 @@ This platform enables **real-time speech-to-speech translation** using **Agora**
 
 ## **Related Repositories**  
 
-1. **Frontend**: [https://github.com/nitin4real/react-video-call-project](Frontend Repo)  
-2. **Node.js Server**: [Add Link]  
-3. **Python Server**: [Add Link]  
+1. **Frontend**: [Repository Link](https://github.com/nitin4real/react-video-call-project)
+2. **Node.js Server**: [Repository Link](https://github.com/nitin4real/agora-backend)
+3. **Python Server**: [Repository Link](https://github.com/nitin4real/s2s-agora-openai-realtime-translation)
 ---
