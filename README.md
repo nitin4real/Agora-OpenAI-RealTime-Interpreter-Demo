@@ -1,7 +1,7 @@
 
 ---
 
-# **Real-Time Speech-to-Speech Translation Platform**  
+# **Real-Time Speech-to-Speech Translation Demo**  
 
 This platform enables **real-time speech-to-speech translation** using **Agora** and **OpenAI**. Users can join meetings, select their preferred language, and communicate seamlessly while hearing translated audio in their chosen language—all with ultra-low latency. The system comprises three main components:  
 
