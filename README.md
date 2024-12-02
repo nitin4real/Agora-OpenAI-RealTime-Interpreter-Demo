@@ -153,7 +153,7 @@ This platform enables **real-time speech-to-speech translation** using **Agora**
    - No agents are created for users speaking the same language.  
 
 ---
-
+## Refer to the respective Repsitories listed below for detailed working of each Service.
 ## **Related Repositories**  
 
 1. **Frontend**: [Repository Link](https://github.com/nitin4real/react-video-call-project)
