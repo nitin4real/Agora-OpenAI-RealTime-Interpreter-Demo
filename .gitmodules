@@ -1,0 +1,9 @@
+[submodule "interpreter-generator"]
+	path = interpreter-generator
+	url = git@github.com:nitin4real/s2s-agora-openai-realtime-translation.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:nitin4real/react-video-call-project.git
+[submodule "user-session-handler"]
+	path = user-session-handler
+	url = git@github.com:nitin4real/agora-backend.git
