@@ -1,7 +1,7 @@
 
 ---
 
-# **Real-Time Speech-to-Speech Translation Platform**  
+# **Real-Time Speech-to-Speech Translation Demo**  
 
 This platform enables **real-time speech-to-speech translation** using **Agora** and **OpenAI**. Users can join meetings, select their preferred language, and communicate seamlessly while hearing translated audio in their chosen language—all with ultra-low latency. The system comprises three main components:  
 
@@ -10,7 +10,7 @@ This platform enables **real-time speech-to-speech translation** using **Agora**
 3. **Python Server**: Creates AI translation agents for real-time audio translation.  
 
 ---
-
+![alt text](Architecture.png)
 ## **Architecture Overview**  
 
 1. **Agora RTC SDK**: Handles video and audio streaming between users.  
@@ -153,10 +153,10 @@ This platform enables **real-time speech-to-speech translation** using **Agora**
    - No agents are created for users speaking the same language.  
 
 ---
-
+## Refer to the respective Repsitories listed below for detailed working of each Service.
 ## **Related Repositories**  
 
-1. **Frontend**: [Add Link]  
-2. **Node.js Server**: [Add Link]  
-3. **Python Server**: [Add Link]  
+1. **Frontend**: [Repository Link](https://github.com/nitin4real/react-video-call-project)
+2. **Node.js Server**: [Repository Link](https://github.com/nitin4real/agora-backend)
+3. **Python Server**: [Repository Link](https://github.com/nitin4real/s2s-agora-openai-realtime-translation)
 ---
